@@ -176,7 +176,14 @@ Se sposti la cartella su un altro computer non serve correggere la colonna `path
 ## 🛠️ Tecnologie e stato del progetto
 
 <p align="left">
+  <!-- Stato del progetto e licenza -->
   <a href="./LICENCE.txt"><img src="https://img.shields.io/badge/license-BSD_3--Clause-blue?style=flat-square" alt="Licenza"></a>
+  <a href="https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/ftosoni/commons-uploader"><img src="https://archive.softwareheritage.org/badge/origin/https://github.com/ftosoni/commons-uploader/" alt="SWH Origin"></a>
+  <a href="https://archive.softwareheritage.org/swh:1:dir:777ba36942bfbaf7faf70e89a9725ec7363bd6cd;origin=https://github.com/ftosoni/commons-uploader;visit=swh:1:snp:2f7e22c26136270a21282380b1381e2f093a8ad1;anchor=swh:1:rev:dd6bd0eeaf20f77b0ee5e80c070f7081256efc70"><img src="https://archive.softwareheritage.org/badge/swh:1:dir:777ba36942bfbaf7faf70e89a9725ec7363bd6cd/" alt="SWH Directory"></a>
+</p>
+
+<p align="left">
+  <!-- Tecnologie -->
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.9+-3776ab?logo=python&logoColor=white" alt="Python 3.9+"></a>
   <a href="https://github.com/mwclient/mwclient"><img src="https://img.shields.io/badge/mwclient-MediaWiki_API-green" alt="mwclient"></a>
   <a href="https://commons.wikimedia.org/"><img src="https://img.shields.io/badge/Wikimedia_Commons-upload-3366cc?logo=wikimedia-commons&logoColor=white" alt="Wikimedia Commons"></a>
