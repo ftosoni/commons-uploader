@@ -1,0 +1,5 @@
+mwclient>=0.10
+pandas>=1.5
+xlrd>=2.0
+openpyxl>=3.0
+Pillow>=9.0

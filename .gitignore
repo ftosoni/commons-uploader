@@ -1,0 +1,29 @@
+# Personal settings (created from config.example.ini on the first run)
+config.ini
+
+# Credentials: never commit them
+.env
+.env.*
+*.secret
+*password*
+*token*
+user-config.py
+user-password.py
+
+# Your photos and spreadsheets
+images/
+*.xls
+*.xlsx
+*.jpg
+*.jpeg
+*.JPG
+*.JPEG
+*.png
+*.tif
+*.tiff
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/

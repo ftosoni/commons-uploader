@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: Commons Uploader
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Francesco
+    family-names: Tosoni
+    email: Francesco.Tosoni@santannapisa.it
+    affiliation: 'Sant''Anna School of Advanced Studies, Pisa'
+    orcid: 'https://orcid.org/0000-0001-8457-3866'
+repository-code: 'https://github.com/ftosoni/commons-uploader'
+url: 'https://github.com/ftosoni/commons-uploader'
+abstract: >-
+  Commons Uploader is a Python script that uploads batches of photographs to Wikimedia Commons from a spreadsheet generated with Pattypan. It previews the file description pages, validates the spreadsheet, reads the camera model from EXIF data, supports the personality rights notice, and never stores passwords.
+keywords:
+  - Wikimedia Commons
+  - batch upload
+  - Pattypan
+  - MediaWiki
+  - mwclient
+  - photography
+  - Wikipedia
+license: BSD-3-Clause
+version: v1.0.0
+date-released: '2026-10-12'
